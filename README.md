@@ -7,8 +7,8 @@
 ### 🌟 About Me
 - 🎓 BCA Student @ Integral University, Lucknow  
 - 💻 Passionate about **Python, Problem Solving, AI/ML, and Software Development**  
-- 🚀 Currently building projects to strengthen my coding & problem-solving skills  
-- 🌱 Always eager to learn and contribute to open-source  
+- 🚀 Currently building projects to strengthen my coding skills & problem-solving abilities.  
+- 🌱 Always eager to learn and contribute to open-source.  
 
 ---
 
